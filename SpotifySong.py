@@ -1,7 +1,3 @@
-#importing data if spotify APIs work for you
-#we recommended not running this class for our project because before running this class you need to ensure the spotipy package is downloaded
-#and you need to obtain an client id and client secret id following the instruction in readme
-#We recommended using the two song datasets we provided and import them in main for testing purpose of this project
 
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
